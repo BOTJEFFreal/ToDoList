@@ -5,7 +5,7 @@ Firebase support will be added within fewdays other than that it checks all the 
 
 
 # Screenshots:
-<img src="/screenshots/todo_emptyactivity.jpeg" height="400px"/> <img src="/screenshots/todo_newtask.jpeg" height="400px"/>
+<img src="/Screenshots/todo_emptyactivity.jpeg" height="400px"/> <img src="/screenshots/todo_newtask.jpeg" height="400px"/>
 <img src="/screenshots/todo_edittask.jpeg" height="400px"/><img src="/screenshots/todo_fullactivity.jpeg" height="400px"/>
 <img src="/screenshots/todo_calendar.jpeg" height="400px"/>
 <img src="/screenshots/todo_clock.jpeg" height="400px"/>
