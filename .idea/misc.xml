@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2295" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.2425" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable/ic_a.xml" value="0.2425" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2425" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable/ic_date.xml" value="0.2315" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable/ic_notifications_none.xml" value="0.2315" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable/ic_prio_high.xml" value="0.2315" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/drawable/ic_prio_low.xml" value="0.2315" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/font/rubik_medium.xml" value="0.28958333333333336" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/activity_add_new_task.xml" value="0.536" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/activity_day_view.xml" value="0.259375" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/activity_edit_task.xml" value="0.541994750656168" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/activity_month_view.xml" value="0.2453125" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/item_activity_list.xml" value="0.259375" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/thatcardview.xml" value="0.259375" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/v1.xml" value="0.4" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/view_activity.xml" value="0.6" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/view_add_button.xml" value="0.259375" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/view_holder_a.xml" value="0.4" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/view_holder_b.xml" value="0.264" />
+        <entry key="..\:/Code/andriod_app/DiffViewRv/app/src/main/res/layout/view_holder_c.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
