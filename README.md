@@ -1,7 +1,7 @@
 # ToDoApp !
 
-This is a simple ToDo application build from ACM android dev task.
-Firebase support will be added within fewdays other than that it checks all the requirements stated.
+This is a simple ToDo application built from the ACM android dev task.
+Firebase support will be added within a few days; other than that, it checks all the requirements stated.
 
 
 # Screenshots:
